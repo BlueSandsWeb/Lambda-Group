@@ -24,4 +24,4 @@ yarn-error.log*
 
 # yarn and npm agnostic
 package-lock.json
-yarn.lock
+.env
